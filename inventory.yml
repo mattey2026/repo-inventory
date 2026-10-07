@@ -1,12 +1,12 @@
 name: Repo inventory
 
 # Lists every PUBLIC repo owned by this account (own repos + forks, with the original
-# each fork came from) and saves it in this repo. Runs every 15 minutes.
+# each fork came from) and saves it in this repo. Runs every hour.
 # When a new fork appears it opens an issue, so GitHub notifies you straight away.
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -29,6 +29,7 @@ jobs:
           set -euo pipefail
           touch forks.txt
           cp forks.txt old_forks.txt
+
 
           gh api --paginate "users/$OWNER/repos?per_page=100&type=owner" \
             --jq '.[] | select(.private == false) | {name, fork, created_at, pushed_at, description, language, html_url}' \
@@ -62,6 +63,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           if [ -s new_forks.txt ]; then
+
             gh issue create \
               --title "New fork(s): $(cut -d' ' -f1 new_forks.txt | paste -sd, - | sed 's/,/, /g')" \
               --body "$(printf 'New forks detected (fork / original):\n\n'; sed 's/^/- /' new_forks.txt)"
