@@ -1,0 +1,81 @@
+name: Repo inventory
+
+# Lists every PUBLIC repo owned by this account (own repos + forks, with the original
+# each fork came from) and saves it in this repo. Runs every hour.
+# When a new fork appears it opens an issue, so GitHub notifies you straight away.
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: inventory
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build inventory
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+          touch forks.txt
+          cp forks.txt old_forks.txt
+
+
+          gh api --paginate "users/$OWNER/repos?per_page=100&type=owner" \
+            --jq '.[] | select(.private == false) | {name, fork, created_at, pushed_at, description, language, html_url}' \
+            | jq -s '.' > raw.json
+
+          # Add the original repo ("fork_of") for every fork
+          jq -c '.[]' raw.json | while read -r r; do
+            name=$(jq -r .name <<<"$r")
+            if [ "$(jq -r .fork <<<"$r")" = "true" ]; then
+              parent=$(gh api "repos/$OWNER/$name" --jq '.parent.full_name // ""')
+              jq -c --arg p "$parent" '. + {fork_of: $p}' <<<"$r"
+            else
+              jq -c '. + {fork_of: null}' <<<"$r"
+            fi
+          done | jq -s 'sort_by(.created_at) | reverse' > repos.json
+          rm raw.json
+
+          jq -r '.[] | select(.fork) | "\(.name) \(.fork_of)"' repos.json | sort -f > forks.txt
+          jq -r '.[] | select(.fork | not) | .name' repos.json | sort -f > own.txt
+
+          # New forks since the last run (skipped on the very first run)
+          if [ -s old_forks.txt ]; then
+            grep -vxFf old_forks.txt forks.txt > new_forks.txt || true
+          else
+            : > new_forks.txt
+          fi
+          rm old_forks.txt
+
+      - name: Notify about new forks
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s new_forks.txt ]; then
+
+            gh issue create \
+              --title "New fork(s): $(cut -d' ' -f1 new_forks.txt | paste -sd, - | sed 's/,/, /g')" \
+              --body "$(printf 'New forks detected (fork / original):\n\n'; sed 's/^/- /' new_forks.txt)"
+          fi
+          rm -f new_forks.txt
+
+      - name: Save inventory
+        run: |
+          git config user.name "repo-inventory-bot"
+          git config user.email "repo-inventory-bot@users.noreply.github.com"
+          git add repos.json forks.txt own.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Update repo inventory"
+            git push
+          fi
