@@ -1,0 +1,1162 @@
+[
+  {
+    "created_at": "2026-10-07T11:39:00Z",
+    "description": null,
+    "fork": false,
+    "html_url": "https://github.com/mattey2026/repo-inventory",
+    "language": null,
+    "name": "repo-inventory",
+    "pushed_at": "2026-10-07T12:09:36Z",
+    "fork_of": null
+  },
+  {
+    "created_at": "2026-10-06T16:59:56Z",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/supabase",
+    "language": null,
+    "name": "supabase",
+    "pushed_at": "2026-10-06T16:46:14Z",
+    "fork_of": "supabase/supabase"
+  },
+  {
+    "created_at": "2026-10-06T16:54:02Z",
+    "description": "Turn any website into a structured API. Extract, automate, search and monitor the web.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/maxun",
+    "language": null,
+    "name": "maxun",
+    "pushed_at": "2026-10-02T21:12:13Z",
+    "fork_of": "getmaxun/maxun"
+  },
+  {
+    "created_at": "2026-10-06T16:52:47Z",
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/coolify",
+    "language": null,
+    "name": "coolify",
+    "pushed_at": "2026-10-06T16:22:19Z",
+    "fork_of": "coollabsio/coolify"
+  },
+  {
+    "created_at": "2026-09-30T14:26:13Z",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/vaultwarden",
+    "language": null,
+    "name": "vaultwarden",
+    "pushed_at": "2026-09-25T19:53:07Z",
+    "fork_of": "dani-garcia/vaultwarden"
+  },
+  {
+    "created_at": "2026-09-30T14:25:49Z",
+    "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/karakeep",
+    "language": null,
+    "name": "karakeep",
+    "pushed_at": "2026-09-29T21:44:10Z",
+    "fork_of": "karakeep-app/karakeep"
+  },
+  {
+    "created_at": "2026-09-30T14:21:59Z",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/paperless-ngx",
+    "language": null,
+    "name": "paperless-ngx",
+    "pushed_at": "2026-09-30T12:35:31Z",
+    "fork_of": "paperless-ngx/paperless-ngx"
+  },
+  {
+    "created_at": "2026-09-29T13:41:35Z",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/MinerU",
+    "language": null,
+    "name": "MinerU",
+    "pushed_at": "2026-09-29T07:22:35Z",
+    "fork_of": "opendatalab/MinerU"
+  },
+  {
+    "created_at": "2026-09-29T13:40:53Z",
+    "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/open-glean",
+    "language": null,
+    "name": "open-glean",
+    "pushed_at": "2026-09-17T05:46:34Z",
+    "fork_of": "hydra-db/open-glean"
+  },
+  {
+    "created_at": "2026-09-29T13:40:22Z",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/VoiceStudio",
+    "language": null,
+    "name": "VoiceStudio",
+    "pushed_at": "2026-09-29T11:52:32Z",
+    "fork_of": "debpalash/VoiceStudio"
+  },
+  {
+    "created_at": "2026-09-29T13:39:48Z",
+    "description": "Opensource Jev",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/OpenJev",
+    "language": null,
+    "name": "OpenJev",
+    "pushed_at": "2026-09-20T06:44:38Z",
+    "fork_of": "GPT-AGI/OpenJev"
+  },
+  {
+    "created_at": "2026-09-29T13:38:57Z",
+    "description": null,
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/OpenRig",
+    "language": null,
+    "name": "OpenRig",
+    "pushed_at": "2026-09-29T13:37:03Z",
+    "fork_of": "jpfaria/OpenRig"
+  },
+  {
+    "created_at": "2026-09-29T13:37:42Z",
+    "description": "an application that automates the lifecycle of servers ",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/foreman",
+    "language": null,
+    "name": "foreman",
+    "pushed_at": "2026-09-29T12:25:50Z",
+    "fork_of": "theforeman/foreman"
+  },
+  {
+    "created_at": "2026-09-29T13:36:49Z",
+    "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/edgeever",
+    "language": null,
+    "name": "edgeever",
+    "pushed_at": "2026-09-29T13:17:55Z",
+    "fork_of": "tianma-if/edgeever"
+  },
+  {
+    "created_at": "2026-09-28T09:51:33Z",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/build-your-own-x",
+    "language": null,
+    "name": "build-your-own-x",
+    "pushed_at": "2026-07-14T19:25:58Z",
+    "fork_of": "codecrafters-io/build-your-own-x"
+  },
+  {
+    "created_at": "2026-09-28T09:51:08Z",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/developer-roadmap",
+    "language": null,
+    "name": "developer-roadmap",
+    "pushed_at": "2026-09-28T06:22:37Z",
+    "fork_of": "nilbuild/developer-roadmap"
+  },
+  {
+    "created_at": "2026-09-28T09:50:23Z",
+    "description": "Blazing fast Go port of gemini-web2api. Convert Google Gemini web into OpenAI-compatible API. Zero cost, single static binary.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/gemini-web2api",
+    "language": null,
+    "name": "gemini-web2api",
+    "pushed_at": "2026-09-09T08:40:01Z",
+    "fork_of": "ikhsan3adi/gemini-web2api"
+  },
+  {
+    "created_at": "2026-09-28T09:40:32Z",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/system-prompts-and-models-of-ai-tools",
+    "language": null,
+    "name": "system-prompts-and-models-of-ai-tools",
+    "pushed_at": "2026-08-11T13:01:09Z",
+    "fork_of": "x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "created_at": "2026-09-28T09:38:46Z",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/twenty",
+    "language": null,
+    "name": "twenty",
+    "pushed_at": "2026-09-28T09:38:20Z",
+    "fork_of": "twentyhq/twenty"
+  },
+  {
+    "created_at": "2026-09-28T09:29:53Z",
+    "description": "A collective list of free APIs",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/public-apis",
+    "language": null,
+    "name": "public-apis",
+    "pushed_at": "2026-09-27T19:29:21Z",
+    "fork_of": "public-apis/public-apis"
+  },
+  {
+    "created_at": "2026-09-28T09:28:35Z",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/prompts.chat",
+    "language": null,
+    "name": "prompts.chat",
+    "pushed_at": "2026-09-09T10:27:05Z",
+    "fork_of": "f/prompts.chat"
+  },
+  {
+    "created_at": "2026-09-28T09:26:25Z",
+    "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/Open-Generative-AI",
+    "language": null,
+    "name": "Open-Generative-AI",
+    "pushed_at": "2026-09-25T14:01:50Z",
+    "fork_of": "Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "created_at": "2026-09-28T09:25:57Z",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/FinceptTerminal",
+    "language": null,
+    "name": "FinceptTerminal",
+    "pushed_at": "2026-09-19T12:41:43Z",
+    "fork_of": "Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "created_at": "2026-09-28T09:23:57Z",
+    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/unsloth",
+    "language": null,
+    "name": "unsloth",
+    "pushed_at": "2026-09-28T09:23:24Z",
+    "fork_of": "unslothai/unsloth"
+  },
+  {
+    "created_at": "2026-09-28T09:07:08Z",
+    "description": "🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/awesome-ai-agents-2026",
+    "language": null,
+    "name": "awesome-ai-agents-2026",
+    "pushed_at": "2026-06-10T16:46:10Z",
+    "fork_of": "caramaschiHG/awesome-ai-agents-2026"
+  },
+  {
+    "created_at": "2026-09-28T09:06:57Z",
+    "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/GenAI_Agents",
+    "language": null,
+    "name": "GenAI_Agents",
+    "pushed_at": "2026-09-24T14:37:32Z",
+    "fork_of": "NirDiamant/GenAI_Agents"
+  },
+  {
+    "created_at": "2026-09-28T09:06:51Z",
+    "description": "Build AI Agents, Visually",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/Flowise",
+    "language": null,
+    "name": "Flowise",
+    "pushed_at": "2026-08-13T12:38:19Z",
+    "fork_of": "FlowiseAI/Flowise"
+  },
+  {
+    "created_at": "2026-09-28T09:06:44Z",
+    "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/crawl4ai",
+    "language": null,
+    "name": "crawl4ai",
+    "pushed_at": "2026-09-25T06:37:14Z",
+    "fork_of": "unclecode/crawl4ai"
+  },
+  {
+    "created_at": "2026-09-28T09:06:35Z",
+    "description": "The web data API to search, scrape, and interact at scale. 🔥",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/firecrawl",
+    "language": null,
+    "name": "firecrawl",
+    "pushed_at": "2026-09-28T08:03:32Z",
+    "fork_of": "firecrawl/firecrawl"
+  },
+  {
+    "created_at": "2026-09-28T09:01:34Z",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/ComfyUI",
+    "language": null,
+    "name": "ComfyUI",
+    "pushed_at": "2026-09-28T06:28:24Z",
+    "fork_of": "Comfy-Org/ComfyUI"
+  },
+  {
+    "created_at": "2026-09-28T09:01:13Z",
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/anything-llm",
+    "language": null,
+    "name": "anything-llm",
+    "pushed_at": "2026-09-26T01:04:54Z",
+    "fork_of": "Mintplex-Labs/anything-llm"
+  },
+  {
+    "created_at": "2026-09-28T09:00:46Z",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/LibreChat",
+    "language": null,
+    "name": "LibreChat",
+    "pushed_at": "2026-09-28T09:00:23Z",
+    "fork_of": "LibreChat-AI/LibreChat"
+  },
+  {
+    "created_at": "2026-09-28T09:00:16Z",
+    "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/perplexica-search-engine-ai",
+    "language": null,
+    "name": "perplexica-search-engine-ai",
+    "pushed_at": "2026-09-27T05:20:03Z",
+    "fork_of": "BunsDev/perplexica-search-engine-ai"
+  },
+  {
+    "created_at": "2026-09-28T08:09:56Z",
+    "description": "Learn it. Build it. Ship it for others.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/ai-engineering-from-scratch",
+    "language": null,
+    "name": "ai-engineering-from-scratch",
+    "pushed_at": "2026-09-28T06:30:42Z",
+    "fork_of": "rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "created_at": "2026-09-28T07:55:36Z",
+    "description": "A list of AI autonomous agents",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/awesome-ai-agents",
+    "language": null,
+    "name": "awesome-ai-agents",
+    "pushed_at": "2026-08-21T18:52:45Z",
+    "fork_of": "e2b-dev/awesome-ai-agents"
+  },
+  {
+    "created_at": "2026-09-28T07:55:30Z",
+    "description": "A collection of MCP servers.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/awesome-mcp-servers",
+    "language": null,
+    "name": "awesome-mcp-servers",
+    "pushed_at": "2026-09-27T02:12:17Z",
+    "fork_of": "punkpeye/awesome-mcp-servers"
+  },
+  {
+    "created_at": "2026-09-28T07:55:18Z",
+    "description": "aider is AI pair programming in your terminal",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/aider",
+    "language": null,
+    "name": "aider",
+    "pushed_at": "2026-05-22T14:02:20Z",
+    "fork_of": "Aider-AI/aider"
+  },
+  {
+    "created_at": "2026-09-28T07:55:14Z",
+    "description": "🙌 OpenHands: AI-Driven Development",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/OpenHands",
+    "language": null,
+    "name": "OpenHands",
+    "pushed_at": "2026-09-28T07:45:18Z",
+    "fork_of": "OpenHands/OpenHands"
+  },
+  {
+    "created_at": "2026-09-28T07:55:08Z",
+    "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/stagehand",
+    "language": null,
+    "name": "stagehand",
+    "pushed_at": "2026-09-28T06:24:32Z",
+    "fork_of": "browserbase/stagehand"
+  },
+  {
+    "created_at": "2026-09-28T07:55:03Z",
+    "description": "Agents that use the browser.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/browser-use",
+    "language": null,
+    "name": "browser-use",
+    "pushed_at": "2026-09-26T07:29:35Z",
+    "fork_of": "browser-use/browser-use"
+  },
+  {
+    "created_at": "2026-09-28T07:54:56Z",
+    "description": "The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/inngest",
+    "language": null,
+    "name": "inngest",
+    "pushed_at": "2026-09-28T05:36:27Z",
+    "fork_of": "inngest/inngest"
+  },
+  {
+    "created_at": "2026-09-28T07:54:50Z",
+    "description": "Temporal service",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/temporal",
+    "language": null,
+    "name": "temporal",
+    "pushed_at": "2026-09-28T02:58:22Z",
+    "fork_of": "temporalio/temporal"
+  },
+  {
+    "created_at": "2026-09-28T07:54:44Z",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/promptfoo",
+    "language": null,
+    "name": "promptfoo",
+    "pushed_at": "2026-09-28T04:49:11Z",
+    "fork_of": "promptfoo/promptfoo"
+  },
+  {
+    "created_at": "2026-09-28T07:53:59Z",
+    "description": "AI Observability & Evaluation",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/phoenix",
+    "language": null,
+    "name": "phoenix",
+    "pushed_at": "2026-09-28T06:26:45Z",
+    "fork_of": "Arize-ai/phoenix"
+  },
+  {
+    "created_at": "2026-09-28T07:53:46Z",
+    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/langfuse",
+    "language": null,
+    "name": "langfuse",
+    "pushed_at": "2026-09-28T07:47:39Z",
+    "fork_of": "langfuse/langfuse"
+  },
+  {
+    "created_at": "2026-09-28T07:53:39Z",
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/letta",
+    "language": null,
+    "name": "letta",
+    "pushed_at": "2026-09-10T17:59:08Z",
+    "fork_of": "letta-ai/letta"
+  },
+  {
+    "created_at": "2026-09-28T07:50:18Z",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/semantic-kernel",
+    "language": null,
+    "name": "semantic-kernel",
+    "pushed_at": "2026-09-19T01:54:57Z",
+    "fork_of": "microsoft/semantic-kernel"
+  },
+  {
+    "created_at": "2026-09-28T07:49:17Z",
+    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/mastra",
+    "language": null,
+    "name": "mastra",
+    "pushed_at": "2026-09-28T07:48:41Z",
+    "fork_of": "mastra-ai/mastra"
+  },
+  {
+    "created_at": "2026-09-28T07:49:09Z",
+    "description": "🤗 smolagents: a barebones library for agents that think in code.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/smolagents",
+    "language": null,
+    "name": "smolagents",
+    "pushed_at": "2026-09-23T13:13:00Z",
+    "fork_of": "huggingface/smolagents"
+  },
+  {
+    "created_at": "2026-09-28T07:49:02Z",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/harness-sdk",
+    "language": null,
+    "name": "harness-sdk",
+    "pushed_at": "2026-09-26T18:10:20Z",
+    "fork_of": "strands-agents/harness-sdk"
+  },
+  {
+    "created_at": "2026-09-28T07:48:56Z",
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/ag2",
+    "language": null,
+    "name": "ag2",
+    "pushed_at": "2026-09-28T05:31:58Z",
+    "fork_of": "ag2ai/ag2"
+  },
+  {
+    "created_at": "2026-09-28T07:48:49Z",
+    "description": "A programming framework for agentic AI",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/autogen",
+    "language": null,
+    "name": "autogen",
+    "pushed_at": "2026-04-15T11:59:09Z",
+    "fork_of": "microsoft/autogen"
+  },
+  {
+    "created_at": "2026-09-28T07:48:43Z",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/agent-framework",
+    "language": null,
+    "name": "agent-framework",
+    "pushed_at": "2026-09-28T05:16:08Z",
+    "fork_of": "microsoft/agent-framework"
+  },
+  {
+    "created_at": "2026-09-28T07:48:35Z",
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/adk-python",
+    "language": null,
+    "name": "adk-python",
+    "pushed_at": "2026-09-26T04:57:31Z",
+    "fork_of": "google/adk-python"
+  },
+  {
+    "created_at": "2026-09-28T07:48:30Z",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/openai-agents-python",
+    "language": null,
+    "name": "openai-agents-python",
+    "pushed_at": "2026-09-28T06:00:06Z",
+    "fork_of": "openai/openai-agents-python"
+  },
+  {
+    "created_at": "2026-09-28T07:48:24Z",
+    "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/camel",
+    "language": null,
+    "name": "camel",
+    "pushed_at": "2026-09-20T04:56:23Z",
+    "fork_of": "camel-ai/camel"
+  },
+  {
+    "created_at": "2026-09-28T07:47:35Z",
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/pydantic-ai",
+    "language": null,
+    "name": "pydantic-ai",
+    "pushed_at": "2026-09-28T07:41:37Z",
+    "fork_of": "pydantic/pydantic-ai"
+  },
+  {
+    "created_at": "2026-09-28T05:08:55Z",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/claude-plugins-official",
+    "language": null,
+    "name": "claude-plugins-official",
+    "pushed_at": "2026-09-25T23:12:23Z",
+    "fork_of": "anthropics/claude-plugins-official"
+  },
+  {
+    "created_at": "2026-09-28T05:08:33Z",
+    "description": "Anthropic Financial Services",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/financial-services",
+    "language": null,
+    "name": "financial-services",
+    "pushed_at": "2026-09-21T21:10:41Z",
+    "fork_of": "anthropics/financial-services"
+  },
+  {
+    "created_at": "2026-09-28T05:06:52Z",
+    "description": "Public repository for Agent Skills (Claude)",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/skills",
+    "language": null,
+    "name": "skills",
+    "pushed_at": "2026-09-24T16:20:39Z",
+    "fork_of": "anthropics/skills"
+  },
+  {
+    "created_at": "2026-09-28T05:04:46Z",
+    "description": null,
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/claude-code-action",
+    "language": null,
+    "name": "claude-code-action",
+    "pushed_at": "2026-09-25T21:52:11Z",
+    "fork_of": "anthropics/claude-code-action"
+  },
+  {
+    "created_at": "2026-09-28T05:04:08Z",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/ragflow",
+    "language": null,
+    "name": "ragflow",
+    "pushed_at": "2026-09-28T04:53:56Z",
+    "fork_of": "infiniflow/ragflow"
+  },
+  {
+    "created_at": "2026-09-28T05:03:44Z",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/gemini-cli",
+    "language": null,
+    "name": "gemini-cli",
+    "pushed_at": "2026-09-28T01:42:37Z",
+    "fork_of": "google-gemini/gemini-cli"
+  },
+  {
+    "created_at": "2026-09-28T04:59:58Z",
+    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/MetaGPT",
+    "language": null,
+    "name": "MetaGPT",
+    "pushed_at": "2026-01-21T10:12:33Z",
+    "fork_of": "FoundationAgents/MetaGPT"
+  },
+  {
+    "created_at": "2026-09-28T04:59:21Z",
+    "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/openinterpreter",
+    "language": null,
+    "name": "openinterpreter",
+    "pushed_at": "2026-09-27T09:51:50Z",
+    "fork_of": "openinterpreter/openinterpreter"
+  },
+  {
+    "created_at": "2026-09-28T04:59:10Z",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/vllm",
+    "language": null,
+    "name": "vllm",
+    "pushed_at": "2026-09-28T04:52:52Z",
+    "fork_of": "vllm-project/vllm"
+  },
+  {
+    "created_at": "2026-09-28T04:59:00Z",
+    "description": "LLM inference in C/C++",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/llama.cpp",
+    "language": null,
+    "name": "llama.cpp",
+    "pushed_at": "2026-09-27T22:03:22Z",
+    "fork_of": "ggml-org/llama.cpp"
+  },
+  {
+    "created_at": "2026-09-28T04:58:51Z",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/transformers",
+    "language": null,
+    "name": "transformers",
+    "pushed_at": "2026-09-28T00:24:47Z",
+    "fork_of": "huggingface/transformers"
+  },
+  {
+    "created_at": "2026-09-28T04:57:54Z",
+    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/openclaw",
+    "language": null,
+    "name": "openclaw",
+    "pushed_at": "2026-09-28T04:57:37Z",
+    "fork_of": "openclaw/openclaw"
+  },
+  {
+    "created_at": "2026-09-28T04:54:03Z",
+    "description": "Grok open release",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/grok-1",
+    "language": null,
+    "name": "grok-1",
+    "pushed_at": "2024-08-30T04:17:25Z",
+    "fork_of": "xai-org/grok-1"
+  },
+  {
+    "created_at": "2026-09-28T04:37:55Z",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/paperclip",
+    "language": null,
+    "name": "paperclip",
+    "pushed_at": "2026-09-28T04:25:09Z",
+    "fork_of": "paperclipai/paperclip"
+  },
+  {
+    "created_at": "2026-09-28T04:32:03Z",
+    "description": "Salesforce Enterprise Deep Research",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/enterprise-deep-research",
+    "language": null,
+    "name": "enterprise-deep-research",
+    "pushed_at": "2026-06-02T18:57:29Z",
+    "fork_of": "SalesforceAIResearch/enterprise-deep-research"
+  },
+  {
+    "created_at": "2026-09-28T04:31:00Z",
+    "description": "GitHub Actions runner images",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/runner-images",
+    "language": null,
+    "name": "runner-images",
+    "pushed_at": "2026-09-27T22:36:49Z",
+    "fork_of": "actions/runner-images"
+  },
+  {
+    "created_at": "2026-09-28T04:30:57Z",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/freeCodeCamp",
+    "language": null,
+    "name": "freeCodeCamp",
+    "pushed_at": "2026-09-28T03:10:31Z",
+    "fork_of": "freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "created_at": "2026-09-28T04:21:56Z",
+    "description": "DeepSeek Harness: Everything is a Plugin.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/deepseek-harness",
+    "language": null,
+    "name": "deepseek-harness",
+    "pushed_at": "2026-09-27T15:55:19Z",
+    "fork_of": "deepseek-ai/deepseek-harness"
+  },
+  {
+    "created_at": "2026-09-28T04:20:51Z",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/LLMs-from-scratch",
+    "language": null,
+    "name": "LLMs-from-scratch",
+    "pushed_at": "2026-09-22T13:58:26Z",
+    "fork_of": "rasbt/LLMs-from-scratch"
+  },
+  {
+    "created_at": "2026-09-28T04:20:24Z",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/nanoGPT",
+    "language": null,
+    "name": "nanoGPT",
+    "pushed_at": "2025-11-12T19:52:34Z",
+    "fork_of": "karpathy/nanoGPT"
+  },
+  {
+    "created_at": "2026-09-28T04:19:28Z",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/goose",
+    "language": null,
+    "name": "goose",
+    "pushed_at": "2026-09-28T02:50:38Z",
+    "fork_of": "aaif-goose/goose"
+  },
+  {
+    "created_at": "2026-09-28T04:19:03Z",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/codex",
+    "language": null,
+    "name": "codex",
+    "pushed_at": "2026-09-28T04:07:04Z",
+    "fork_of": "openai/codex"
+  },
+  {
+    "created_at": "2026-09-28T04:17:59Z",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/claude-code",
+    "language": null,
+    "name": "claude-code",
+    "pushed_at": "2026-09-27T22:20:45Z",
+    "fork_of": "anthropics/claude-code"
+  },
+  {
+    "created_at": "2026-09-28T04:17:05Z",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/crewAI",
+    "language": null,
+    "name": "crewAI",
+    "pushed_at": "2026-09-27T08:27:46Z",
+    "fork_of": "crewAIInc/crewAI"
+  },
+  {
+    "created_at": "2026-09-28T04:16:31Z",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/open-webui",
+    "language": null,
+    "name": "open-webui",
+    "pushed_at": "2026-09-28T03:59:54Z",
+    "fork_of": "open-webui/open-webui"
+  },
+  {
+    "created_at": "2026-09-28T04:13:30Z",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/mattermost",
+    "language": null,
+    "name": "mattermost",
+    "pushed_at": "2026-09-28T03:32:53Z",
+    "fork_of": "mattermost/mattermost"
+  },
+  {
+    "created_at": "2026-09-28T04:12:31Z",
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/dify",
+    "language": null,
+    "name": "dify",
+    "pushed_at": "2026-09-28T04:07:35Z",
+    "fork_of": "langgenius/dify"
+  },
+  {
+    "created_at": "2026-09-28T04:11:12Z",
+    "description": "The agent that grows with you",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/hermes-agent",
+    "language": null,
+    "name": "hermes-agent",
+    "pushed_at": "2026-09-28T03:26:50Z",
+    "fork_of": "NousResearch/hermes-agent"
+  },
+  {
+    "created_at": "2026-09-28T04:10:35Z",
+    "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/open-saas",
+    "language": null,
+    "name": "open-saas",
+    "pushed_at": "2026-09-22T11:19:05Z",
+    "fork_of": "wasp-lang/open-saas"
+  },
+  {
+    "created_at": "2026-09-28T04:10:17Z",
+    "description": "VS Code in the browser",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/code-server",
+    "language": null,
+    "name": "code-server",
+    "pushed_at": "2026-09-26T00:28:16Z",
+    "fork_of": "coder/code-server"
+  },
+  {
+    "created_at": "2026-09-28T04:09:58Z",
+    "description": "One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/cloudberry",
+    "language": null,
+    "name": "cloudberry",
+    "pushed_at": "2026-09-27T01:14:38Z",
+    "fork_of": "apache/cloudberry"
+  },
+  {
+    "created_at": "2026-09-28T04:09:39Z",
+    "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/awesome-quant",
+    "language": null,
+    "name": "awesome-quant",
+    "pushed_at": "2026-09-28T01:25:28Z",
+    "fork_of": "wilsonfreitas/awesome-quant"
+  },
+  {
+    "created_at": "2026-09-28T04:09:04Z",
+    "description": "A powerful, flexible, Markdown-based authoring framework.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/markdoc",
+    "language": null,
+    "name": "markdoc",
+    "pushed_at": "2026-09-16T16:47:15Z",
+    "fork_of": "markdoc/markdoc"
+  },
+  {
+    "created_at": "2026-09-28T04:08:43Z",
+    "description": "OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/openpanel",
+    "language": null,
+    "name": "openpanel",
+    "pushed_at": "2026-09-22T21:20:38Z",
+    "fork_of": "Openpanel-dev/openpanel"
+  },
+  {
+    "created_at": "2026-09-28T04:08:27Z",
+    "description": "Effort free video editing!",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/auto-editor",
+    "language": null,
+    "name": "auto-editor",
+    "pushed_at": "2026-09-19T14:52:15Z",
+    "fork_of": "WyattBlue/auto-editor"
+  },
+  {
+    "created_at": "2026-09-28T04:08:09Z",
+    "description": "DSPy: The framework for programming—not prompting—language models",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/dspy",
+    "language": null,
+    "name": "dspy",
+    "pushed_at": "2026-09-27T00:23:09Z",
+    "fork_of": "stanfordnlp/dspy"
+  },
+  {
+    "created_at": "2026-09-28T04:07:43Z",
+    "description": "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. ",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/ESP32-BlueJammer",
+    "language": null,
+    "name": "ESP32-BlueJammer",
+    "pushed_at": "2026-03-29T00:34:40Z",
+    "fork_of": "EmenstaNougat/ESP32-BlueJammer"
+  },
+  {
+    "created_at": "2026-09-28T04:06:19Z",
+    "description": "Scheduling infrastructure for absolutely everyone.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/cal.diy",
+    "language": null,
+    "name": "cal.diy",
+    "pushed_at": "2026-09-26T07:48:40Z",
+    "fork_of": "calcom/cal.diy"
+  },
+  {
+    "created_at": "2026-09-28T04:05:44Z",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/n8n",
+    "language": null,
+    "name": "n8n",
+    "pushed_at": "2026-09-28T03:39:12Z",
+    "fork_of": "n8n-io/n8n"
+  },
+  {
+    "created_at": "2026-09-28T04:05:17Z",
+    "description": "Penpot's official MCP Server",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/penpot-mcp",
+    "language": null,
+    "name": "penpot-mcp",
+    "pushed_at": "2026-03-19T12:45:10Z",
+    "fork_of": "penpot/penpot-mcp"
+  },
+  {
+    "created_at": "2026-09-28T04:04:29Z",
+    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/AppFlowy-Cloud",
+    "language": null,
+    "name": "AppFlowy-Cloud",
+    "pushed_at": "2026-09-11T08:47:01Z",
+    "fork_of": "AppFlowy-IO/AppFlowy-Cloud"
+  },
+  {
+    "created_at": "2026-09-28T04:03:46Z",
+    "description": "Example Docker Compose setup for hosting Plausible Community Edition",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/community-edition",
+    "language": null,
+    "name": "community-edition",
+    "pushed_at": "2026-05-15T09:19:14Z",
+    "fork_of": "plausible/community-edition"
+  },
+  {
+    "created_at": "2026-09-28T04:03:05Z",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/whisper",
+    "language": null,
+    "name": "whisper",
+    "pushed_at": "2026-08-31T17:19:19Z",
+    "fork_of": "openai/whisper"
+  },
+  {
+    "created_at": "2026-09-28T04:02:38Z",
+    "description": "Focus on prompting and generating",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/Fooocus",
+    "language": null,
+    "name": "Fooocus",
+    "pushed_at": "2025-12-01T19:17:07Z",
+    "fork_of": "lllyasviel/Fooocus"
+  },
+  {
+    "created_at": "2026-09-28T04:02:12Z",
+    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/ollama",
+    "language": null,
+    "name": "ollama",
+    "pushed_at": "2026-09-27T23:43:06Z",
+    "fork_of": "ollama/ollama"
+  },
+  {
+    "created_at": "2026-09-28T04:01:42Z",
+    "description": "A feature-rich command-line audio/video downloader",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/yt-dlp",
+    "language": null,
+    "name": "yt-dlp",
+    "pushed_at": "2026-09-27T22:09:13Z",
+    "fork_of": "yt-dlp/yt-dlp"
+  },
+  {
+    "created_at": "2026-09-28T04:00:45Z",
+    "description": "Model Context Protocol Servers",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/servers",
+    "language": null,
+    "name": "servers",
+    "pushed_at": "2026-09-28T03:58:49Z",
+    "fork_of": "modelcontextprotocol/servers"
+  },
+  {
+    "created_at": "2026-09-28T03:59:30Z",
+    "description": "Visual testing tool for MCP servers",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/inspector",
+    "language": null,
+    "name": "inspector",
+    "pushed_at": "2026-09-27T05:42:05Z",
+    "fork_of": "modelcontextprotocol/inspector"
+  },
+  {
+    "created_at": "2026-09-28T03:58:17Z",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/claude-cookbooks",
+    "language": null,
+    "name": "claude-cookbooks",
+    "pushed_at": "2026-09-24T18:19:10Z",
+    "fork_of": "anthropics/claude-cookbooks"
+  },
+  {
+    "created_at": "2026-09-28T03:57:45Z",
+    "description": "Sample application for Lightning Web Components on Salesforce Platform. Part of the sample gallery. Real estate use case. Get inspired and learn best practices.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/dreamhouse-lwc",
+    "language": null,
+    "name": "dreamhouse-lwc",
+    "pushed_at": "2026-09-09T02:52:26Z",
+    "fork_of": "trailheadapps/dreamhouse-lwc"
+  },
+  {
+    "created_at": "2026-09-28T03:57:11Z",
+    "description": "A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/lwc-recipes",
+    "language": null,
+    "name": "lwc-recipes",
+    "pushed_at": "2026-09-09T03:09:33Z",
+    "fork_of": "trailheadapps/lwc-recipes"
+  },
+  {
+    "created_at": "2026-09-28T03:55:07Z",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/agency-agents",
+    "language": null,
+    "name": "agency-agents",
+    "pushed_at": "2026-09-27T23:45:36Z",
+    "fork_of": "msitarzewski/agency-agents"
+  },
+  {
+    "created_at": "2026-09-28T03:54:14Z",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/codebase-memory-mcp",
+    "language": null,
+    "name": "codebase-memory-mcp",
+    "pushed_at": "2026-09-28T01:02:56Z",
+    "fork_of": "DeusData/codebase-memory-mcp"
+  },
+  {
+    "created_at": "2026-09-28T03:52:59Z",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/OpenMontage",
+    "language": null,
+    "name": "OpenMontage",
+    "pushed_at": "2026-09-06T05:02:34Z",
+    "fork_of": "calesthio/OpenMontage"
+  },
+  {
+    "created_at": "2026-09-28T03:51:29Z",
+    "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/Graft",
+    "language": null,
+    "name": "Graft",
+    "pushed_at": "2026-09-28T00:12:44Z",
+    "fork_of": "trailhq/Graft"
+  },
+  {
+    "created_at": "2026-08-04T15:23:36Z",
+    "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/RagaAI-Catalyst",
+    "language": null,
+    "name": "RagaAI-Catalyst",
+    "pushed_at": "2026-02-11T14:43:33Z",
+    "fork_of": "raga-ai-hub/RagaAI-Catalyst"
+  },
+  {
+    "created_at": "2026-07-28T08:30:59Z",
+    "description": "Build resilient agents.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/langgraph",
+    "language": "Python",
+    "name": "langgraph",
+    "pushed_at": "2026-09-28T10:41:55Z",
+    "fork_of": "langchain-ai/langgraph"
+  },
+  {
+    "created_at": "2026-06-30T11:41:16Z",
+    "description": "Vendor PO Management Application",
+    "fork": false,
+    "html_url": "https://github.com/mattey2026/VendorPulse",
+    "language": "JavaScript",
+    "name": "VendorPulse",
+    "pushed_at": "2026-06-30T16:47:00Z",
+    "fork_of": null
+  },
+  {
+    "created_at": "2026-05-18T11:51:18Z",
+    "description": "ONA Relationship Intelligence — 11-algorithm graph analytics built natively inside Salesforce",
+    "fork": false,
+    "html_url": "https://github.com/mattey2026/ona-relationship-intelligence",
+    "language": "Apex",
+    "name": "ona-relationship-intelligence",
+    "pushed_at": "2026-06-24T01:51:59Z",
+    "fork_of": null
+  }
+]
