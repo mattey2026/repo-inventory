@@ -1,3 +1,4 @@
+growth-intelligence-platform
 ona-relationship-intelligence
 repo-inventory
 VendorPulse
