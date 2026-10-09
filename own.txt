@@ -2,3 +2,4 @@ growth-intelligence-platform
 ona-relationship-intelligence
 repo-inventory
 VendorPulse
+writing-intelligence-studio
