@@ -1,5 +1,45 @@
 [
   {
+    "created_at": "2026-10-09T08:47:12Z",
+    "description": "PagerDuty's official local MCP (Model Context Protocol) server which provides tools to interact with your PagerDuty account directly from your MCP-enabled client.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/pagerduty-mcp-server",
+    "language": null,
+    "name": "pagerduty-mcp-server",
+    "pushed_at": "2026-09-04T13:56:14Z",
+    "fork_of": "PagerDuty/pagerduty-mcp-server"
+  },
+  {
+    "created_at": "2026-10-09T08:47:02Z",
+    "description": "Agentic tooling for Sentry",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/toolkit",
+    "language": null,
+    "name": "toolkit",
+    "pushed_at": "2026-10-09T08:22:56Z",
+    "fork_of": "getsentry/toolkit"
+  },
+  {
+    "created_at": "2026-10-09T08:46:50Z",
+    "description": "MCP Server for ServiceNow",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/servicenow-mcp",
+    "language": null,
+    "name": "servicenow-mcp",
+    "pushed_at": "2026-04-26T15:45:58Z",
+    "fork_of": "echelon-ai-labs/servicenow-mcp"
+  },
+  {
+    "created_at": "2026-10-09T08:40:50Z",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/postiz-app",
+    "language": null,
+    "name": "postiz-app",
+    "pushed_at": "2026-10-09T08:37:29Z",
+    "fork_of": "gitroomhq/postiz-app"
+  },
+  {
     "created_at": "2026-10-09T04:22:19Z",
     "description": "Unified Training of Universal Time Series Forecasting Transformers | Moirai: A Time Series Foundation Model for Universal Forecasting",
     "fork": true,
@@ -126,7 +166,7 @@
     "html_url": "https://github.com/mattey2026/repo-inventory",
     "language": null,
     "name": "repo-inventory",
-    "pushed_at": "2026-10-09T01:45:54Z",
+    "pushed_at": "2026-10-09T08:31:42Z",
     "fork_of": null
   },
   {
