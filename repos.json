@@ -1,5 +1,15 @@
 [
   {
+    "created_at": "2026-10-09T04:22:19Z",
+    "description": "Unified Training of Universal Time Series Forecasting Transformers | Moirai: A Time Series Foundation Model for Universal Forecasting",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/moirai",
+    "language": null,
+    "name": "moirai",
+    "pushed_at": "2026-06-02T18:53:33Z",
+    "fork_of": "SalesforceAIResearch/uni2ts"
+  },
+  {
     "created_at": "2026-10-08T11:39:48Z",
     "description": "AI-powered enterprise growth and decision intelligence platform combining data, AI agents, analytics, competitive intelligence, and predictive insights.",
     "fork": false,
@@ -116,7 +126,7 @@
     "html_url": "https://github.com/mattey2026/repo-inventory",
     "language": null,
     "name": "repo-inventory",
-    "pushed_at": "2026-10-08T21:03:36Z",
+    "pushed_at": "2026-10-09T01:45:54Z",
     "fork_of": null
   },
   {

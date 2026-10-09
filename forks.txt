@@ -75,6 +75,7 @@ maxun getmaxun/maxun
 MetaGPT FoundationAgents/MetaGPT
 MinerU opendatalab/MinerU
 mitosis BuilderIO/mitosis
+moirai SalesforceAIResearch/uni2ts
 n8n n8n-io/n8n
 nanoGPT karpathy/nanoGPT
 ollama ollama/ollama
