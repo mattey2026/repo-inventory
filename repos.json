@@ -276,7 +276,7 @@
     "html_url": "https://github.com/mattey2026/repo-inventory",
     "language": null,
     "name": "repo-inventory",
-    "pushed_at": "2026-10-13T10:08:14Z",
+    "pushed_at": "2026-10-13T17:57:36Z",
     "fork_of": null
   },
   {
@@ -382,12 +382,12 @@
   {
     "created_at": "2026-09-29T13:38:57Z",
     "description": null,
-    "fork": true,
+    "fork": false,
     "html_url": "https://github.com/mattey2026/OpenRig",
     "language": null,
     "name": "OpenRig",
     "pushed_at": "2026-09-29T13:37:03Z",
-    "fork_of": "jpfaria/OpenRig"
+    "fork_of": null
   },
   {
     "created_at": "2026-09-29T13:37:42Z",

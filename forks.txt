@@ -97,7 +97,6 @@ openinterpreter openinterpreter/openinterpreter
 OpenJev GPT-AGI/OpenJev
 OpenMontage calesthio/OpenMontage
 openpanel Openpanel-dev/openpanel
-OpenRig jpfaria/OpenRig
 pagerduty-mcp-server PagerDuty/pagerduty-mcp-server
 paperclip paperclipai/paperclip
 paperless-ngx paperless-ngx/paperless-ngx
