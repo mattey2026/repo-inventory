@@ -2,6 +2,7 @@ adk-python google/adk-python
 ag2 ag2ai/ag2
 agency-agents msitarzewski/agency-agents
 agent-framework microsoft/agent-framework
+agentgateway agentgateway/agentgateway
 ai-engineering-from-scratch rohitg00/ai-engineering-from-scratch
 aider Aider-AI/aider
 anything-llm Mintplex-Labs/anything-llm
@@ -10,6 +11,7 @@ auto-editor WyattBlue/auto-editor
 autogen microsoft/autogen
 awesome-ai-agents e2b-dev/awesome-ai-agents
 awesome-ai-agents-2026 caramaschiHG/awesome-ai-agents-2026
+awesome-freellm-apis open-free-llm-api/awesome-freellm-apis
 awesome-mcp-servers punkpeye/awesome-mcp-servers
 awesome-quant wilsonfreitas/awesome-quant
 ax google/ax
@@ -17,6 +19,7 @@ browser-use browser-use/browser-use
 build-your-own-x codecrafters-io/build-your-own-x
 cal.diy calcom/cal.diy
 camel camel-ai/camel
+claude-agent-sdk-python anthropics/claude-agent-sdk-python
 claude-code anthropics/claude-code
 claude-code-action anthropics/claude-code-action
 claude-cookbooks anthropics/claude-cookbooks
@@ -49,7 +52,8 @@ gemini-cli google-gemini/gemini-cli
 gemini-web2api ikhsan3adi/gemini-web2api
 GenAI_Agents NirDiamant/GenAI_Agents
 goose aaif-goose/goose
-Graft trailhq/Graft
+Graft trailhq/Trail-Code
+graphiti getzep/graphiti
 grok-1 xai-org/grok-1
 harness-sdk strands-agents/harness-sdk
 hermes-agent NousResearch/hermes-agent
@@ -64,6 +68,8 @@ laya NandhaKishorM/laya
 lazycodex code-yeongyu/lazycodex
 letta letta-ai/letta
 LibreChat LibreChat-AI/LibreChat
+LightRAG HKUDS/LightRAG
+litellm BerriAI/litellm
 LiveCharts2 Live-Charts/LiveCharts2
 llama.cpp ggml-org/llama.cpp
 LLMs-from-scratch rasbt/LLMs-from-scratch
@@ -72,6 +78,7 @@ markdoc markdoc/markdoc
 mastra mastra-ai/mastra
 mattermost mattermost/mattermost
 maxun getmaxun/maxun
+mcp-context-forge IBM/mcp-context-forge
 MetaGPT FoundationAgents/MetaGPT
 MinerU opendatalab/MinerU
 mitosis BuilderIO/mitosis
@@ -107,6 +114,7 @@ RagaAI-Catalyst raga-ai-hub/RagaAI-Catalyst
 ragflow infiniflow/ragflow
 rea morluto/rea
 runner-images actions/runner-images
+salesforce-skills salesforce/salesforce-skills
 semantic-kernel microsoft/semantic-kernel
 servers modelcontextprotocol/servers
 servicenow-mcp echelon-ai-labs/servicenow-mcp
@@ -126,3 +134,4 @@ vllm vllm-project/vllm
 VoiceStudio debpalash/VoiceStudio
 whisper openai/whisper
 yt-dlp yt-dlp/yt-dlp
+zana salesforce/zana

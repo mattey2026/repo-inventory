@@ -1,5 +1,95 @@
 [
   {
+    "created_at": "2026-10-13T14:15:50Z",
+    "description": "134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/awesome-freellm-apis",
+    "language": null,
+    "name": "awesome-freellm-apis",
+    "pushed_at": "2026-10-13T03:56:09Z",
+    "fork_of": "open-free-llm-api/awesome-freellm-apis"
+  },
+  {
+    "created_at": "2026-10-13T11:14:33Z",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/litellm",
+    "language": null,
+    "name": "litellm",
+    "pushed_at": "2026-10-13T11:14:30Z",
+    "fork_of": "BerriAI/litellm"
+  },
+  {
+    "created_at": "2026-10-13T11:13:53Z",
+    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/LightRAG",
+    "language": null,
+    "name": "LightRAG",
+    "pushed_at": "2026-10-12T01:55:28Z",
+    "fork_of": "HKUDS/LightRAG"
+  },
+  {
+    "created_at": "2026-10-13T11:13:29Z",
+    "description": "Build Real-Time Knowledge Graphs for AI Agents",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/graphiti",
+    "language": null,
+    "name": "graphiti",
+    "pushed_at": "2026-10-13T06:59:08Z",
+    "fork_of": "getzep/graphiti"
+  },
+  {
+    "created_at": "2026-10-13T11:11:54Z",
+    "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/agentgateway",
+    "language": null,
+    "name": "agentgateway",
+    "pushed_at": "2026-10-13T10:02:03Z",
+    "fork_of": "agentgateway/agentgateway"
+  },
+  {
+    "created_at": "2026-10-13T11:11:40Z",
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/mcp-context-forge",
+    "language": null,
+    "name": "mcp-context-forge",
+    "pushed_at": "2026-10-13T11:08:50Z",
+    "fork_of": "IBM/mcp-context-forge"
+  },
+  {
+    "created_at": "2026-10-13T11:11:12Z",
+    "description": null,
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/claude-agent-sdk-python",
+    "language": null,
+    "name": "claude-agent-sdk-python",
+    "pushed_at": "2026-10-09T19:32:25Z",
+    "fork_of": "anthropics/claude-agent-sdk-python"
+  },
+  {
+    "created_at": "2026-10-13T11:03:47Z",
+    "description": "Run, schedule, and coordinate fleets of coding agents from one desktop app",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/zana",
+    "language": null,
+    "name": "zana",
+    "pushed_at": "2026-10-13T10:50:24Z",
+    "fork_of": "salesforce/zana"
+  },
+  {
+    "created_at": "2026-10-13T11:03:34Z",
+    "description": null,
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/salesforce-skills",
+    "language": null,
+    "name": "salesforce-skills",
+    "pushed_at": "2026-10-08T22:29:21Z",
+    "fork_of": "salesforce/salesforce-skills"
+  },
+  {
     "created_at": "2026-10-12T16:13:03Z",
     "description": null,
     "fork": false,
@@ -186,7 +276,7 @@
     "html_url": "https://github.com/mattey2026/repo-inventory",
     "language": null,
     "name": "repo-inventory",
-    "pushed_at": "2026-10-13T02:51:38Z",
+    "pushed_at": "2026-10-13T10:08:14Z",
     "fork_of": null
   },
   {
@@ -1297,7 +1387,7 @@
     "language": null,
     "name": "Graft",
     "pushed_at": "2026-09-28T00:12:44Z",
-    "fork_of": "trailhq/Graft"
+    "fork_of": "trailhq/Trail-Code"
   },
   {
     "created_at": "2026-08-04T15:23:36Z",
