@@ -44,6 +44,7 @@ ESP32-BlueJammer EmenstaNougat/ESP32-BlueJammer
 financial-services anthropics/financial-services
 FinceptTerminal Fincept-Corporation/FinceptTerminal
 firecrawl firecrawl/firecrawl
+flax google/flax
 Flowise FlowiseAI/Flowise
 Fooocus lllyasviel/Fooocus
 foreman theforeman/foreman
@@ -51,6 +52,7 @@ freeCodeCamp freeCodeCamp/freeCodeCamp
 gemini-cli google-gemini/gemini-cli
 gemini-web2api ikhsan3adi/gemini-web2api
 GenAI_Agents NirDiamant/GenAI_Agents
+Google-Cloud-Containers huggingface/Google-Cloud-Containers
 goose aaif-goose/goose
 Graft trailhq/Trail-Code
 graphiti getzep/graphiti
@@ -60,6 +62,8 @@ hermes-agent NousResearch/hermes-agent
 hono honojs/hono
 inngest inngest/inngest
 inspector modelcontextprotocol/inspector
+jax jax-ml/jax
+JetStream AI-Hypercomputer/JetStream
 jev-ultrafast browser-use/jev-ultrafast
 karakeep karakeep-app/karakeep
 langfuse langfuse/langfuse
@@ -74,6 +78,7 @@ LiveCharts2 Live-Charts/LiveCharts2
 llama.cpp ggml-org/llama.cpp
 LLMs-from-scratch rasbt/LLMs-from-scratch
 lwc-recipes trailheadapps/lwc-recipes
+lws kubernetes-sigs/lws
 markdoc markdoc/markdoc
 mastra mastra-ai/mastra
 mattermost mattermost/mattermost
@@ -85,6 +90,7 @@ mitosis BuilderIO/mitosis
 moirai SalesforceAIResearch/uni2ts
 n8n n8n-io/n8n
 nanoGPT karpathy/nanoGPT
+NemoClaw NVIDIA/NemoClaw
 ollama ollama/ollama
 Open-Generative-AI Anil-matcha/Open-Generative-AI
 open-glean hydra-db/open-glean
@@ -132,5 +138,7 @@ vaultwarden dani-garcia/vaultwarden
 vllm vllm-project/vllm
 VoiceStudio debpalash/VoiceStudio
 whisper openai/whisper
+xla pytorch/xla
+xla-google openxla/xla
 yt-dlp yt-dlp/yt-dlp
 zana salesforce/zana

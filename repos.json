@@ -1,5 +1,85 @@
 [
   {
+    "created_at": "2026-10-14T06:03:52Z",
+    "description": "LeaderWorkerSet: An API for deploying a group of pods as a unit of replication",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/lws",
+    "language": null,
+    "name": "lws",
+    "pushed_at": "2026-10-13T21:24:54Z",
+    "fork_of": "kubernetes-sigs/lws"
+  },
+  {
+    "created_at": "2026-10-14T06:03:45Z",
+    "description": "Flax is a neural network library for JAX that is designed for flexibility.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/flax",
+    "language": null,
+    "name": "flax",
+    "pushed_at": "2026-10-12T14:14:26Z",
+    "fork_of": "google/flax"
+  },
+  {
+    "created_at": "2026-10-14T06:03:33Z",
+    "description": "JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/JetStream",
+    "language": null,
+    "name": "JetStream",
+    "pushed_at": "2026-01-05T17:51:16Z",
+    "fork_of": "AI-Hypercomputer/JetStream"
+  },
+  {
+    "created_at": "2026-10-14T06:03:26Z",
+    "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/xla-google",
+    "language": null,
+    "name": "xla-google",
+    "pushed_at": "2026-10-14T05:55:35Z",
+    "fork_of": "openxla/xla"
+  },
+  {
+    "created_at": "2026-10-14T06:03:02Z",
+    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/xla",
+    "language": null,
+    "name": "xla",
+    "pushed_at": "2026-10-13T17:42:28Z",
+    "fork_of": "pytorch/xla"
+  },
+  {
+    "created_at": "2026-10-14T05:42:19Z",
+    "description": "Hugging Face Deep Learning Containers (DLCs) for Google Cloud",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/Google-Cloud-Containers",
+    "language": null,
+    "name": "Google-Cloud-Containers",
+    "pushed_at": "2026-10-06T09:21:20Z",
+    "fork_of": "huggingface/Google-Cloud-Containers"
+  },
+  {
+    "created_at": "2026-10-14T05:41:02Z",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/jax",
+    "language": null,
+    "name": "jax",
+    "pushed_at": "2026-10-14T05:38:13Z",
+    "fork_of": "jax-ml/jax"
+  },
+  {
+    "created_at": "2026-10-14T05:32:23Z",
+    "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/NemoClaw",
+    "language": null,
+    "name": "NemoClaw",
+    "pushed_at": "2026-10-14T05:24:21Z",
+    "fork_of": "NVIDIA/NemoClaw"
+  },
+  {
     "created_at": "2026-10-13T14:15:50Z",
     "description": "134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.",
     "fork": true,
@@ -276,7 +356,7 @@
     "html_url": "https://github.com/mattey2026/repo-inventory",
     "language": null,
     "name": "repo-inventory",
-    "pushed_at": "2026-10-13T17:57:36Z",
+    "pushed_at": "2026-10-13T22:26:02Z",
     "fork_of": null
   },
   {
