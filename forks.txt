@@ -1,3 +1,4 @@
+500-AI-Agents-Projects ashishpatel26/500-AI-Agents-Projects
 adk-python google/adk-python
 ag2 ag2ai/ag2
 agency-agents msitarzewski/agency-agents
@@ -33,11 +34,13 @@ community-edition plausible/community-edition
 coolify coollabsio/coolify
 crawl4ai unclecode/crawl4ai
 crewAI crewAIInc/crewAI
+deepeval confident-ai/deepeval
 deepseek-harness deepseek-ai/deepseek-harness
 developer-roadmap nilbuild/developer-roadmap
 dify langgenius/dify
 dreamhouse-lwc trailheadapps/dreamhouse-lwc
 dspy stanfordnlp/dspy
+E2B e2b-dev/E2B
 edgeever tianma-if/edgeever
 enterprise-deep-research SalesforceAIResearch/enterprise-deep-research
 ESP32-BlueJammer EmenstaNougat/ESP32-BlueJammer
@@ -57,11 +60,14 @@ goose aaif-goose/goose
 Graft trailhq/Trail-Code
 graphiti getzep/graphiti
 grok-1 xai-org/grok-1
+guardrails guardrails-ai/guardrails
 harness-sdk strands-agents/harness-sdk
+haystack deepset-ai/haystack
 hermes-agent NousResearch/hermes-agent
 hono honojs/hono
 inngest inngest/inngest
 inspector modelcontextprotocol/inspector
+inspect_ai UKGovernmentBEIS/inspect_ai
 jax jax-ml/jax
 JetStream AI-Hypercomputer/JetStream
 jev-ultrafast browser-use/jev-ultrafast
@@ -76,6 +82,7 @@ LightRAG HKUDS/LightRAG
 litellm BerriAI/litellm
 LiveCharts2 Live-Charts/LiveCharts2
 llama.cpp ggml-org/llama.cpp
+llama_index run-llama/llama_index
 LLMs-from-scratch rasbt/LLMs-from-scratch
 lwc-recipes trailheadapps/lwc-recipes
 lws kubernetes-sigs/lws
@@ -84,6 +91,7 @@ mastra mastra-ai/mastra
 mattermost mattermost/mattermost
 maxun getmaxun/maxun
 mcp-context-forge IBM/mcp-context-forge
+mem0 mem0ai/mem0
 MetaGPT FoundationAgents/MetaGPT
 MinerU opendatalab/MinerU
 mitosis BuilderIO/mitosis
@@ -115,7 +123,9 @@ promptfoo promptfoo/promptfoo
 prompts.chat f/prompts.chat
 public-apis public-apis/public-apis
 pydantic-ai pydantic/pydantic-ai
+python-sdk modelcontextprotocol/python-sdk
 RagaAI-Catalyst raga-ai-hub/RagaAI-Catalyst
+ragas vibrantlabsai/ragas
 ragflow infiniflow/ragflow
 rea morluto/rea
 runner-images actions/runner-images
@@ -133,6 +143,7 @@ temporal temporalio/temporal
 toolkit getsentry/toolkit
 transformers huggingface/transformers
 twenty twentyhq/twenty
+typescript-sdk modelcontextprotocol/typescript-sdk
 unsloth unslothai/unsloth
 vaultwarden dani-garcia/vaultwarden
 vllm vllm-project/vllm

@@ -1,5 +1,115 @@
 [
   {
+    "created_at": "2026-10-17T10:32:34Z",
+    "description": "Adding guardrails to large language models.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/guardrails",
+    "language": null,
+    "name": "guardrails",
+    "pushed_at": "2026-10-15T02:25:34Z",
+    "fork_of": "guardrails-ai/guardrails"
+  },
+  {
+    "created_at": "2026-10-17T10:31:49Z",
+    "description": "Supercharge Your LLM Application Evaluations 🚀",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/ragas",
+    "language": null,
+    "name": "ragas",
+    "pushed_at": "2026-02-24T07:47:19Z",
+    "fork_of": "vibrantlabsai/ragas"
+  },
+  {
+    "created_at": "2026-10-17T10:31:33Z",
+    "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/E2B",
+    "language": null,
+    "name": "E2B",
+    "pushed_at": "2026-10-14T23:38:59Z",
+    "fork_of": "e2b-dev/E2B"
+  },
+  {
+    "created_at": "2026-10-17T10:31:25Z",
+    "description": "Inspect: A framework for large language model evaluations",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/inspect_ai",
+    "language": null,
+    "name": "inspect_ai",
+    "pushed_at": "2026-10-17T00:24:53Z",
+    "fork_of": "UKGovernmentBEIS/inspect_ai"
+  },
+  {
+    "created_at": "2026-10-17T10:31:10Z",
+    "description": "The LLM Evaluation Framework",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/deepeval",
+    "language": null,
+    "name": "deepeval",
+    "pushed_at": "2026-10-16T20:18:51Z",
+    "fork_of": "confident-ai/deepeval"
+  },
+  {
+    "created_at": "2026-10-17T10:30:17Z",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/haystack",
+    "language": null,
+    "name": "haystack",
+    "pushed_at": "2026-10-17T02:14:47Z",
+    "fork_of": "deepset-ai/haystack"
+  },
+  {
+    "created_at": "2026-10-17T10:30:14Z",
+    "description": "LlamaIndex is the document processing platform for AI",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/llama_index",
+    "language": null,
+    "name": "llama_index",
+    "pushed_at": "2026-10-14T15:29:28Z",
+    "fork_of": "run-llama/llama_index"
+  },
+  {
+    "created_at": "2026-10-17T10:29:54Z",
+    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/mem0",
+    "language": null,
+    "name": "mem0",
+    "pushed_at": "2026-10-16T20:26:26Z",
+    "fork_of": "mem0ai/mem0"
+  },
+  {
+    "created_at": "2026-10-17T10:29:40Z",
+    "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/typescript-sdk",
+    "language": null,
+    "name": "typescript-sdk",
+    "pushed_at": "2026-10-14T00:05:33Z",
+    "fork_of": "modelcontextprotocol/typescript-sdk"
+  },
+  {
+    "created_at": "2026-10-17T10:29:26Z",
+    "description": "The official Python SDK for Model Context Protocol servers and clients",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/python-sdk",
+    "language": null,
+    "name": "python-sdk",
+    "pushed_at": "2026-10-16T11:08:29Z",
+    "fork_of": "modelcontextprotocol/python-sdk"
+  },
+  {
+    "created_at": "2026-10-17T08:55:34Z",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "fork": true,
+    "html_url": "https://github.com/mattey2026/500-AI-Agents-Projects",
+    "language": null,
+    "name": "500-AI-Agents-Projects",
+    "pushed_at": "2026-07-27T05:40:40Z",
+    "fork_of": "ashishpatel26/500-AI-Agents-Projects"
+  },
+  {
     "created_at": "2026-10-14T06:03:52Z",
     "description": "LeaderWorkerSet: An API for deploying a group of pods as a unit of replication",
     "fork": true,
@@ -176,7 +286,7 @@
     "html_url": "https://github.com/mattey2026/mattey2026",
     "language": null,
     "name": "mattey2026",
-    "pushed_at": "2026-10-12T16:46:58Z",
+    "pushed_at": "2026-10-17T09:10:21Z",
     "fork_of": null
   },
   {
@@ -356,7 +466,7 @@
     "html_url": "https://github.com/mattey2026/repo-inventory",
     "language": null,
     "name": "repo-inventory",
-    "pushed_at": "2026-10-17T03:06:46Z",
+    "pushed_at": "2026-10-17T08:17:35Z",
     "fork_of": null
   },
   {
