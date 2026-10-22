@@ -18,14 +18,12 @@ awesome-quant wilsonfreitas/awesome-quant
 ax google/ax
 browser-use browser-use/browser-use
 build-your-own-x codecrafters-io/build-your-own-x
-cal.diy calcom/cal.diy
 camel camel-ai/camel
 claude-agent-sdk-python anthropics/claude-agent-sdk-python
 claude-code anthropics/claude-code
 claude-code-action anthropics/claude-code-action
 claude-cookbooks anthropics/claude-cookbooks
 claude-plugins-official anthropics/claude-plugins-official
-cloudberry apache/cloudberry
 code-server coder/code-server
 codebase-memory-mcp DeusData/codebase-memory-mcp
 codex openai/codex
@@ -45,7 +43,6 @@ edgeever tianma-if/edgeever
 enterprise-deep-research SalesforceAIResearch/enterprise-deep-research
 ESP32-BlueJammer EmenstaNougat/ESP32-BlueJammer
 financial-services anthropics/financial-services
-FinceptTerminal Fincept-Corporation/FinceptTerminal
 firecrawl firecrawl/firecrawl
 flax google/flax
 Flowise FlowiseAI/Flowise
@@ -88,7 +85,6 @@ lwc-recipes trailheadapps/lwc-recipes
 lws kubernetes-sigs/lws
 markdoc markdoc/markdoc
 mastra mastra-ai/mastra
-mattermost mattermost/mattermost
 maxun getmaxun/maxun
 mcp-context-forge IBM/mcp-context-forge
 mem0 mem0ai/mem0
@@ -105,7 +101,6 @@ open-glean hydra-db/open-glean
 open-saas wasp-lang/open-saas
 open-webui open-webui/open-webui
 openai-agents-python openai/openai-agents-python
-openclaw openclaw/openclaw
 OpenHands OpenHands/OpenHands
 openinterpreter openinterpreter/openinterpreter
 OpenJev GPT-AGI/OpenJev
@@ -119,7 +114,6 @@ perplexica-search-engine-ai BunsDev/perplexica-search-engine-ai
 phoenix Arize-ai/phoenix
 playwright microsoft/playwright
 postiz-app gitroomhq/postiz-app
-promptfoo promptfoo/promptfoo
 prompts.chat f/prompts.chat
 public-apis public-apis/public-apis
 pydantic-ai pydantic/pydantic-ai

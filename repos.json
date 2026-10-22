@@ -466,7 +466,7 @@
     "html_url": "https://github.com/mattey2026/repo-inventory",
     "language": null,
     "name": "repo-inventory",
-    "pushed_at": "2026-10-22T01:15:08Z",
+    "pushed_at": "2026-10-22T07:08:46Z",
     "fork_of": null
   },
   {
@@ -570,16 +570,6 @@
     "fork_of": "GPT-AGI/OpenJev"
   },
   {
-    "created_at": "2026-09-29T13:38:57Z",
-    "description": null,
-    "fork": false,
-    "html_url": "https://github.com/mattey2026/OpenRig",
-    "language": null,
-    "name": "OpenRig",
-    "pushed_at": "2026-09-29T13:37:03Z",
-    "fork_of": null
-  },
-  {
     "created_at": "2026-09-29T13:37:42Z",
     "description": "an application that automates the lifecycle of servers ",
     "fork": true,
@@ -678,16 +668,6 @@
     "name": "Open-Generative-AI",
     "pushed_at": "2026-09-25T14:01:50Z",
     "fork_of": "Anil-matcha/Open-Generative-AI"
-  },
-  {
-    "created_at": "2026-09-28T09:25:57Z",
-    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-    "fork": true,
-    "html_url": "https://github.com/mattey2026/FinceptTerminal",
-    "language": null,
-    "name": "FinceptTerminal",
-    "pushed_at": "2026-09-19T12:41:43Z",
-    "fork_of": "Fincept-Corporation/FinceptTerminal"
   },
   {
     "created_at": "2026-09-28T09:23:57Z",
@@ -878,16 +858,6 @@
     "name": "temporal",
     "pushed_at": "2026-09-28T02:58:22Z",
     "fork_of": "temporalio/temporal"
-  },
-  {
-    "created_at": "2026-09-28T07:54:44Z",
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
-    "fork": true,
-    "html_url": "https://github.com/mattey2026/promptfoo",
-    "language": null,
-    "name": "promptfoo",
-    "pushed_at": "2026-09-28T04:49:11Z",
-    "fork_of": "promptfoo/promptfoo"
   },
   {
     "created_at": "2026-09-28T07:53:59Z",
@@ -1140,16 +1110,6 @@
     "fork_of": "huggingface/transformers"
   },
   {
-    "created_at": "2026-09-28T04:57:54Z",
-    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-    "fork": true,
-    "html_url": "https://github.com/mattey2026/openclaw",
-    "language": null,
-    "name": "openclaw",
-    "pushed_at": "2026-09-28T04:57:37Z",
-    "fork_of": "openclaw/openclaw"
-  },
-  {
     "created_at": "2026-09-28T04:54:03Z",
     "description": "Grok open release",
     "fork": true,
@@ -1280,16 +1240,6 @@
     "fork_of": "open-webui/open-webui"
   },
   {
-    "created_at": "2026-09-28T04:13:30Z",
-    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-    "fork": true,
-    "html_url": "https://github.com/mattey2026/mattermost",
-    "language": null,
-    "name": "mattermost",
-    "pushed_at": "2026-09-28T03:32:53Z",
-    "fork_of": "mattermost/mattermost"
-  },
-  {
     "created_at": "2026-09-28T04:12:31Z",
     "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
     "fork": true,
@@ -1328,16 +1278,6 @@
     "name": "code-server",
     "pushed_at": "2026-09-26T00:28:16Z",
     "fork_of": "coder/code-server"
-  },
-  {
-    "created_at": "2026-09-28T04:09:58Z",
-    "description": "One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.",
-    "fork": true,
-    "html_url": "https://github.com/mattey2026/cloudberry",
-    "language": null,
-    "name": "cloudberry",
-    "pushed_at": "2026-09-27T01:14:38Z",
-    "fork_of": "apache/cloudberry"
   },
   {
     "created_at": "2026-09-28T04:09:39Z",
@@ -1398,16 +1338,6 @@
     "name": "ESP32-BlueJammer",
     "pushed_at": "2026-03-29T00:34:40Z",
     "fork_of": "EmenstaNougat/ESP32-BlueJammer"
-  },
-  {
-    "created_at": "2026-09-28T04:06:19Z",
-    "description": "Scheduling infrastructure for absolutely everyone.",
-    "fork": true,
-    "html_url": "https://github.com/mattey2026/cal.diy",
-    "language": null,
-    "name": "cal.diy",
-    "pushed_at": "2026-09-26T07:48:40Z",
-    "fork_of": "calcom/cal.diy"
   },
   {
     "created_at": "2026-09-28T04:05:44Z",

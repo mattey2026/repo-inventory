@@ -1,7 +1,6 @@
 growth-intelligence-platform
 mattey2026
 ona-relationship-intelligence
-OpenRig
 repo-inventory
 VendorPulse
 writing-intelligence-studio
